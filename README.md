@@ -1,2 +1,2 @@
 # jenkins
-tp jenkins auto builf
+tp jenkins auto build
